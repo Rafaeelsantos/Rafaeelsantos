@@ -16,3 +16,7 @@
     
  <img align = "center" width = "46%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeelsantos&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
+<div style = "display:incline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" aling = "center" alt = "Rafael_Js" height = "30" width = "40" />
+</div>

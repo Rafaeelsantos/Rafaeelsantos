@@ -2,7 +2,8 @@
 
 Tenho 17 anos, estou estudando na área de progrmação há 1 ano e meio, tendo a linguagem de programação Dart como porta de entrada. Moro na Capital de São Paulo e estou no 2° Ano do ensino médio.
 
-- ✍🏽 Atualmente estou aprendendo a linguagem de programação JAVA
+- ✍🏽 Atualmente estou aprendendo a linguagem de programação JAVA   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" aling = "center" alt = "java" height = "30" width = "40" />
+
  
 
 ##

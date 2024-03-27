@@ -1,8 +1,9 @@
 ## Olá eu sou o Rafael Santos!!! 👋
 
-Tenho 17 anos, estou estudando na área de progrmação há 1 ano e meio, tendo a linguagem de programação Dart como porta de entrada. Moro na Capital de São Paulo e estou no 2° Ano do ensino médio.
+Tenho 17 anos, estou estudando na área de progrmação há 1 ano e meio, tendo a linguagem de programação Dart como porta de entrada. Moro na Capital de São Paulo e estou no 3° Ano do ensino médio.
 
-- ✍🏽 Atualmente estou aprendendo a linguagem de programação JAVA   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" aling = "center" alt = "java" height = "30" width = "40" />
+- ✍🏽 Atualmente estou aprendendo a linguagem de programação DART   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" aling = "center" alt = "java" height = "30" width = "40" /> E a linguagem de programação PHP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" aling = "center" alt = "java" height = "30" width = "40" />
+
 
  
 

@@ -4,6 +4,8 @@ Tenho 18 anos, estou estudando na área de progrmação há 1 ano e meio, tendo 
 
 - ✍🏽 Atualmente estou aprendendo a linguagem de programação DART   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" aling = "center" alt = "java" height = "30" width = "40" /> E a linguagem de programação PHP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" aling = "center" alt = "java" height = "30" width = "40" />
 
+Nesse primeiro semestre de 2025 irei dar início 
+a faculdade de Engenharia de Computação, me potencializando cada vez mais na área de Tecnologia/Programação.
 
  
 

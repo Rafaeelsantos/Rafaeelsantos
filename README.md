@@ -1,6 +1,6 @@
 ## Olá eu sou o Rafael Santos!!! 👋
 
-Tenho 19 anos, estou estudando na área de progrmação há 4 ano e meio, tendo a linguagem de programação Dart como porta de entrada.
+Tenho 19 anos, estou estudando na área de progrmação há 4 anos e meio, tendo a linguagem de programação Dart como porta de entrada.
 
 
 - Estudante de Engenharia da Computação há um ano e meio, e Instrutor pedagógico de TI.

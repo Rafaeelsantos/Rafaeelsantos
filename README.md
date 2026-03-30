@@ -1,12 +1,9 @@
 ## Olá eu sou o Rafael Santos!!! 👋
 
-Tenho 18 anos, estou estudando na área de progrmação há 1 ano e meio, tendo a linguagem de programação Dart como porta de entrada.
+Tenho 19 anos, estou estudando na área de progrmação há 4 ano e meio, tendo a linguagem de programação Dart como porta de entrada.
 
-- ✍🏽 Atualmente estou aprendendo a linguagem de programação DART   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" aling = "center" alt = "java" height = "30" width = "40" /> E a linguagem de programação PHP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" aling = "center" alt = "java" height = "30" width = "40" />
 
-Nesse primeiro semestre de 2025 irei dar início 
-a faculdade de Engenharia de Computação, me potencializando cada vez mais na área de Tecnologia/Programação.
-
+- Estudante de Engenharia da Computação há um ano e meiio, e Instrutor pedagógico de TI.
  
 
 ##
